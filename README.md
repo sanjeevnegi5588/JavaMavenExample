@@ -21,7 +21,7 @@ The application will be available on `http://localhost:8080`.
    mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp
    ```
 
-2. Add the webapp-runner plugin into the `pom.xml`:
+2. Add the webapp-runner plugin into the `pom.xml`:::::
 
    ```
    <build>
