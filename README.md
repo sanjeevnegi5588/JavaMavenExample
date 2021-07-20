@@ -13,7 +13,7 @@ java -jar target/dependency/webapp-runner.jar target/*.war
 
 The application will be available on `http://localhost:8080`.
 
-## How This Was Built
+## How This Was Built in this project
 
 1. Generate the project using a Maven archetype:
 
