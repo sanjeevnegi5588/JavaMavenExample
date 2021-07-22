@@ -22,7 +22,8 @@ The application will be available on `http://localhost:8080`.
    ```
    test
    mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp
-   ```
+  
+  viewer
 
 2. Add the webapp-runner plugin into the `pom.xml`:::::
 
